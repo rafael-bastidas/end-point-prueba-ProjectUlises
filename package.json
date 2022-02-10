@@ -4,7 +4,6 @@
   "description": "Esta es una aplicacion web desarrollada por MyRDigitalCoaches.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm run build",
     "start": "node index.js"
   },
   "keywords": [],
