@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "postinstall": "npm run build",
-    "start": "node index.js",
-    "build": "webpack"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Ingeniero Rafael Bastidas",
